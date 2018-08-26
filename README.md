@@ -1,4 +1,4 @@
-# "Active Learning in Econometrics II" -- Presentation at DIKU, June 2016
+# "Active Learning in Econometrics II" -- Presentation at DIKU, June 2018
 
 Presentation on my teaching given at DIKU in June 2018.
 
